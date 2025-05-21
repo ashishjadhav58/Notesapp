@@ -45,4 +45,4 @@ const AboutPage: React.FC = () => { // Changed 'page' to 'AboutPage'
         </main>
     )
 }
-export default AboutPage; // Changed 'page' to 'AboutPage'
+export default AboutPage;
